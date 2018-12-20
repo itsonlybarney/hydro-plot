@@ -7,7 +7,7 @@ name = "pypi"
 numpy = "*"
 pandas = "*"
 matplotlib = "*"
-notebook = "*"
+notebook = ">=5.7.2"
 
 [dev-packages]
 
